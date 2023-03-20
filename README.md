@@ -1,2 +1,0 @@
-# midterm-assignment
-portfolio
